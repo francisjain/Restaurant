@@ -1,0 +1,389 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+.hf{font-family: 'Great Vibes', cursive; font-size: 34px;}
+
+
+
+
+
+
+
+
+
+
+.mbody{
+    color: white;
+    position: relative;
+}
+
+
+
+
+.navbar{
+    /* background-color: rgba(0, 0, 0, 0.2); */
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+}
+
+
+.index{
+    background-color: aqua;
+    height: 1189px;
+    width: 2379px;
+    text-align: center;
+    position: relative;
+}
+
+.ih{
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 200px;
+    width: 450px;
+    padding: 10px;
+    position: absolute;
+    top: 535px;
+    left: 994px;
+    border: 1px solid #B58A4B;
+}
+
+.ih img{padding-left: 41px;}
+
+.idate{
+    width: 2379px;
+    position: absolute;
+    bottom: 0px;
+}
+
+
+
+.about{
+    background-color: #EDEDED;
+    height: 778px;
+    width: 2313px;
+    margin: 35px;
+    position: relative;
+}
+
+.about1{
+    position: absolute;
+    top: 172px;
+    left: 428px;
+    height: 500px;
+     width: 800px;
+}
+
+.tap{
+    background-color: #EDEDED;
+    position: absolute;
+    top: 50px;
+    left: 1218px;
+    height:650px;
+    width: 500px;}
+
+.tap img{
+    height: 600px;
+    width: 500px;}
+
+
+
+.menu{
+    background-color: white;
+    height: 1189px;
+    width: 2379px;
+    position: relative;
+}
+
+.bgmenu{
+    position: absolute;
+    top: -131px;
+}
+
+.menab{
+    position: absolute;
+    top: 172px;
+    left: 689px;
+    height: 500px;
+     width: 800px;
+}
+.bor{
+    position: absolute;
+    top: 112px;
+    left: 1800px;
+}
+.menulist{
+    text-align: center;
+    position: absolute;
+    top: 228px;
+    right: 173px;
+    height: 447px;
+    width: 337px;
+}
+
+.mslide{
+    background-color: white;
+    border: 2px solid white;
+    height: 271px;
+    width: 1546px;
+    position: absolute;
+    left: 834px;
+    bottom: 0px;
+  
+}
+.mslide img{
+    height: 270px ;
+    width: 500px;
+}
+
+
+
+
+.drink{
+    background-color: white;
+    height: 1189px;
+    width: 2379px;
+    position: relative;
+}
+
+.bgdrink{
+    position: absolute;
+    top: -62px;
+    left: 1851px;
+}
+
+.dabout{
+    position: absolute;
+    top: 154px;
+    left: 862px;
+    height: 500px;
+     width: 800px;
+}
+
+
+
+.dbor{
+    position: absolute;
+    top: 112px;
+    right: 1800px;
+}
+.dmenulist{
+    text-align: center;
+    position: absolute;
+    top: 228px;
+    left: 173px;
+    height: 447px;
+    width: 337px;
+}
+
+
+.dslide{
+    background-color: white;
+    border: 2px solid white;
+    height: 271px;
+    width: 1546px;
+    position: absolute;
+    left: 0px;
+    bottom: 10px;
+  
+}
+.dslide img{
+    height: 270px ;
+    width: 500px;
+}
+
+.reserve{
+    background-image: url(/images/bgr.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 100% 100%; */
+    background-size: cover;
+    background-attachment: fixed;
+    height: 956px;
+    width: 2313px;
+    margin: 35px;
+    position: relative;
+}
+
+.tap2{
+    position: absolute;
+    top: 186px;
+    left: 472px;
+}
+
+.tap2 img {
+    border-radius: .9%;
+    height: 528px;
+    width: 679;
+  }
+
+  .tap2 {
+    height: 450px;
+    width: 700px;
+  }
+
+.form1{
+    background-color: white;
+    height: 800px;
+    width: 650px;
+    padding: 10px;
+    position: absolute;
+    top: 100px;
+    right: 423px;
+}
+.gallery{
+    background-color: white;
+    height: 800px;
+    width: 2379px;
+    position: relative;
+
+}
+
+.gallery img{padding: 25px;border-radius: 18%;}
+
+
+
+footer{
+    background-color: #EDEDED;
+    
+}
+
+.foo{
+    /* background-image: url(/images/foo.jpg);
+    background-repeat: no-repeat;
+     background-position: 100% 100%; 
+    background-size: cover;
+    background-attachment: fixed; */
+    width: 2379px;
+    height: 566px;
+    background-color: rgb(155, 119, 90);
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.foofs{
+    /* background-color: aqua; */
+    text-align: start;
+    height: 250px;
+    margin-left: 397px;
+    margin-top: 182px;
+}
+
+.foocp{
+    /* background-color: burlywood; */
+    text-align: center;
+    
+    margin-top: 213px;
+    height: 200px;
+    width: 450px;
+}
+
+.fooes{
+    margin-top: 267px;
+    margin-right: 508px;
+    width: 250px;
+    height: 150px;
+    /* background-color: aliceblue; */
+    text-align: end;
+}
+
+
+/* -----------other-------------------------- */
+
+
+.mdl{
+   
+    height: 500px;
+     width: 456px;
+}
+
+.button-default {
+    background: white;
+    color: #B58A4B;
+    display: inline-block;
+    font-size: 13px;
+    margin: 0;
+    padding: 18px 35px;
+    text-transform: uppercase;
+    font-weight: 550;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    border-radius: 28px;
+    border: 1px solid #B58A4B;
+}
+
+.button-default:hover{
+    color: white;
+    background: #B58A4B;
+    display: inline-block;
+    font-size: 13px;
+    margin: 0;
+    padding: 18px 35px;
+    text-transform: uppercase;
+    font-weight: 550;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    border-radius: 28px;
+    border: 1px solid #B58A4B;
+}
+
+
+hr.new2 {
+    border-top: 3px dotted #B58A4B;
+  }
+
+  /* .tap1 img {
+    border-radius: .9%;
+    height: 428px;
+    width: 479;
+  }
+
+  .tap1 {
+    height: 600px;
+    width: 1200px;
+    position: absolute;
+    top: 100px;
+    left: 507px;
+  } */
+
+  
+
+  input[type=text] {
+    width: 100%;
+    margin: 8px 0;
+    padding-left: 0%;
+    box-sizing: border-box;
+    border-radius: 0%;
+    border: none;
+    border-bottom: 1px solid rgb(223, 220, 220)
+  }
+
+  select {
+    width: 100%;
+    margin: 8px 0;
+    padding: 10px;
+    padding-left: 0%;
+    border-radius: 0%;
+    border: none;
+    border-bottom: 1px solid rgb(223, 220, 220)
+  }
+
+  textarea {
+    width: 100%;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 0%;
+    border: none;
+    border-bottom: 1px solid rgb(223, 220, 220)
+  }
+
+  @media screen and (min-width: 676px) {
+    .modal-dialog {
+      max-width: 600px;
+      /* New width for default modal */
+    }
+  }
+
+
+  /* -----------other-------------------------- */
